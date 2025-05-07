@@ -1,1 +1,10 @@
+hello
 sound
+ready
+funny
+sleep
+track
+stomp
+piper
+zebra
+cross
